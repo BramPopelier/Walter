@@ -1,6 +1,6 @@
 # Walter — AI Running Coach
 
-Walter is a personal running training plan app inspired by [Runna](https://runna.com). Named after the trainer from the duathlon club. It connects your Strava account, analyses your training history, and uses Claude AI to generate a personalised multi-week training plan displayed on an interactive calendar.
+Walter is a personal running training plan app inspired by [Runna](https://runna.com). Named after the coach from DVB: Duatlon Vereniging Baliebrugge. It connects your Strava account, analyses your training history, and uses Claude AI to generate a personalised multi-week training plan displayed on an interactive calendar.
 
 Live at: **[walter-lemon.vercel.app](https://walter-lemon.vercel.app)**
 
